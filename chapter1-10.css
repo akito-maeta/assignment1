@@ -80,12 +80,15 @@ footer {
   }
 
   main {
-  	width: 90%;
+  	width: 100%;
   }
 
   .box {
-    width: 100%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-bottom: 20px;
+
   }
   .box:last-child {
   	margin-bottom: 0;
